@@ -1,0 +1,29 @@
+body {
+    height:  100vh;
+    background-color: rgb(183, 130, 233);
+}
+
+.encabezado {
+    background-color: aliceblue;
+    height: 100px;
+    padding: 10px ;
+}
+
+.sideBar {
+    background-color: bisque;
+    height: 150px;
+}
+
+.cuerpo {
+    background-color: aquamarine;
+}
+
+.pie-pagina {
+    background-color: rgb(236, 255, 127);
+    height: auto;
+}
+
+table {
+    background-color: rgb(112, 112, 208);
+    border: 2px solid rgb(0, 0, 0);
+}
